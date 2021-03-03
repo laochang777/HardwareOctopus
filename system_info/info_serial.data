@@ -1,0 +1,7 @@
+com_str<COM14>
+com_index<1>
+baud_str<115200>
+baud_index<0>
+data_bit<0>
+stop_bit<0>
+check<0>
